@@ -1,6 +1,4 @@
-### Hi there 👋
-
-![header](https://capsule-render.vercel.app/api?type=rounded)
+![header](https://capsule-render.vercel.app/api?type=rounded&text=Hello!%20I'm%20Minji&color=gradient&)
 
 
 :wrench: Tools :wrench:
