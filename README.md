@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&text=Hello!%20I'm%20Minji&color=gradient&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&text=Hello!%20I'm%20Minji&color=gradient&animation=fadeIn)
 
 <div align="center"> 
 
