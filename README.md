@@ -1,10 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&text=Hello!%20I'm%20Minji&color=gradient&animation=fadeIn)
+![slice](https://capsule-render.vercel.app/api?type=slice&color=FDEE21&fontColor=A5CD39&height=200&text=Welcome👋&fontAlign=70&rotate=13&fontAlignY=25&desc=Minji's%20GitHub&descAlign=70.&descAlignY=44)
 
 <div align="center"> 
 
-<br/>
-
-## Welcome, my Github profile!
+## My Profile
 
 :wrench: Tools
 
