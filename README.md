@@ -16,8 +16,8 @@
   
 ## My Project
 
-<a href="https://github.com/seojuuudy/WMS_project4" target="_blank"><img src="https://img.shields.io/badge/WMS-006AFF?style=for-the-badge&logo=WMS&logoColor=white"/></a> : 창고관리 시스템<br>
-<a href="https://github.com/GyeongBinJ/Spring_Smallbox" target="_blank"><img src="https://img.shields.io/badge/SMALL%20BOX-7D00FF?style=for-the-badge&logo=WMS&logoColor=white"/></a> : 영화예매 사이트
+<a href="https://github.com/seojuuudy/WMS_project4" target="_blank"><img src="https://img.shields.io/badge/WMS-006AFF?style=for-the-badge&logo=WMS&logoColor=white"></a> : 창고관리 시스템<br>
+<a href="https://github.com/GyeongBinJ/Spring_Smallbox" target="_blank"><img src="https://img.shields.io/badge/SMALLBOX-7D00FF?style=for-the-badge&logo=WMS&logoColor=white"></a> : 영화예매 사이트
 
 <br/>
 <br/>
